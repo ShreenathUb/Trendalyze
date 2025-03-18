@@ -1,4 +1,4 @@
-# 📊 Trendalyze – Twitter trends + analytics.
+# 📊 Trendalyze  – Twitter trends + analytics.
 
 An AI-powered **Trendalyze – Twitter trends + analytics.** and **Ad Insights** dashboard built using **Streamlit**, **Tweepy**, and **AstraDB**.
 
